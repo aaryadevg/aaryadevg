@@ -1,4 +1,10 @@
-### Hi there 👋
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+  font-family: 'Permanent Marker', cursive;
+}
+</style>
 
 <!--
 **aaryadevg/aaryadevg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
