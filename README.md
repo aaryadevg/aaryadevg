@@ -1,6 +1,6 @@
 Hello there, My name is...
 ---
-<h2 align="center">Aaryadev Ghosalkar</h2>
+<img src="https://github.com/aaryadevg/aaryadevg/blob/main/logo.svg" width="100%" alt="Aaryadev Ghosalkar"/> 
 
 ```python
 # About Me
