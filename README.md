@@ -17,13 +17,13 @@ def me() -> dict[Str, Any]:
  
  # My, Skills
  def skills() -> dict[Str, List[Str]]:
-  skills = None # 🥲
+  skills = None # 🙁 Unfortunetly
   
   # Ok, Jokes aside
   skills = {
     "programming_languages"   : ['Python', 'Java', 'C#'],
     "technologies_used"       : ['Pytorch', 'Numpy', 'Pandas', 'Flask', 'ASP.net', 'SQL Server', 'SQL Lite'],
-    "tools_used"              : ['Bash', 'Vscode', 'git', 'github'],
+    "tools_used"              : ['Bash', 'Vscode', 'git', 'github', 'jupyter notebooks'],
     "Want_to_learn"           : ['FastAPI', 'React']
   }
   return skills
