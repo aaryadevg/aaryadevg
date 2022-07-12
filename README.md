@@ -42,5 +42,6 @@ def me() -> dict[Str, Any]:
 
 <h2 align="center">Contact me 👋</h2>
 
-- 
-
+<p align="left">
+<a href="https://www.linkedin.com/in/aaryadev-ghosalkar-063610206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryadev ghosalkar linked in" height="30" width="40" /></a>
+</p>
