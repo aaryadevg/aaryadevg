@@ -39,3 +39,8 @@ def me() -> dict[Str, Any]:
 <h2 align="center">Github Stats 📈</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=aaryadevg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryadevg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<h2 align="center">Contact me 👋</h2>
+
+- 
+
