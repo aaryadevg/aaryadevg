@@ -7,7 +7,7 @@ Hello there, My name is...
 def me() -> dict[Str, Any]:
   about = {
     "Bio 👨‍💻"                 : "An AI / Science / Math enthusiast based in India",
-    "Occupation 🏫"          : "3rd Year BSc IT student in North West University", # https://www.nwu.ac.za/
+    "Occupation 🏫"          : "Post Graduate Student at Pune University"
     "Working_on 🛠"          : "Implementing a Physics Informed Neural Network", # An AI to approximate differential equations
     "Favourite_book 📘"      : 1984, # By Gorge Orwell
     "Favourite_sport ⚽️"     : "F1" # Team McLaren always
