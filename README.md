@@ -7,8 +7,8 @@ Hello there, My name is...
 def me() -> dict[Str, Any]:
   about = {
     "Bio 👨‍💻"                 : "An AI / Science / Math enthusiast based in India",
-    "Occupation 🏫"          : "Post Graduate Student at Pune University"
-    "Working_on 🛠"          : "Implementing a Physics Informed Neural Network", # An AI to approximate differential equations
+    "Occupation 🏫"          : "Gen AI engineer at Samprama Digitek"
+    "Working_on 🛠"          : "Bringing AI Agents into industry 4.0",
     "Favourite_book 📘"      : 1984, # By Gorge Orwell
     "Favourite_sport ⚽️"     : "F1" # Team McLaren always
   }
@@ -21,10 +21,10 @@ def me() -> dict[Str, Any]:
   
   # Ok, Jokes aside
   skills = {
-    "programming_languages"   : ['Python', 'Java', 'C#'],
-    "technologies_used"       : ['Pytorch', 'Numpy', 'Pandas', 'Flask', 'ASP.net', 'SQL Server', 'SQL Lite'],
+    "programming_languages"   : ['Python', 'JavaScript', 'C#'],
+    "technologies_used"       : ['Ollama', 'LangChain', 'Hugging Face', 'Fast API', 'Pytorch', 'Postgres', 'Chroma DB'],
     "tools_used"              : ['Bash', 'Vscode', 'git', 'github', 'jupyter notebooks'],
-    "Want_to_learn"           : ['FastAPI', 'React']
+    "Want_to_learn"           : ['AWS', 'LangGraph', 'Unsloth']
   }
   return skills
 ```
